@@ -1,0 +1,289 @@
+---
+title: "Rani Basna resume"
+author: Rani Basna
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - css/custom_resume.css
+      - css/styles.css
+      - resume
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+# knit: pagedown::chrome_print
+---
+
+
+Aside
+================================================================================
+
+
+![Rani Basna](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> rani.basna@gu.se
+- <i class="fa fa-github"></i> [Github](https://github.com/ranibasna)
+
+- <i class="fa fa-twitter"></i> [Twitter: `@`RaniBasna](https://twitter.com/RaniBasna)
+
+- <i class="fab fa-orcid"></i> <a href='https://orcid.org/0000-0001-7510-8460'> Orcid </a>  
+
+- <i class="fa fa-home"></i> [ranibasna](https://ranibasna)
+
+Software {#software}
+--------------------------------------------------------------------------------
+
+<i class="fas fa-box-open"></i> [Package {mananciais}](https://github.com/ranibasna/ddk) - Co-Author, maintainer. 
+
+
+Teaching {#teachingr}
+--------------------------------------------------------------------------------
+
+<i class="fas fa-chalkboard-teacher"></i> [GitHub repo for material](https://ranibasna.github.io/Reproducible-research-with-R-/). 
+
+
+
+Programming Skills {#skills}
+--------------------------------------------------------------------------------
+
+<i class="fab fa-r-project"></i> `R`
+
+<i class="fab fa-python"></i> `Python`
+
+<i class="fab fa-docker"></i> `Docker`
+
+```{r echo=FALSE, out.width="5%"}
+#knitr::include_graphics("img/tidyverse_min.png")
+```
+<i class="fa fa-area-chart" aria-hidden="true"></i>
+ `tidyverse`
+
+<i class="fas fa-code-branch"></i> `Git`
+
+<i class="fab fa-github"></i> `GitHub`
+
+<i class="fab fa-markdown"></i> `Markdown`
+
+<i class="fas fa-database"></i> `DataBase`
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Rani Basna {#title}
+--------------------------------------------------------------------------------
+
+### About Me
+
+Doctor of Mathematical Statistics with a specialty in Machine Learning, with more than
+10 years of research and teaching experience. I catch on quickly and I’m very eager to learn.
+I am self motivated and enjoy overcoming challenges. I do enjoy working with a focused and
+creative team to meet goals and deadlines. I am delighted to read and interpret science with
+the purpose of communicating it to the public, management or experts. I spend most of my
+free time with my two children and my wife I enjoy playing board games and chess. I don’t miss the chance to meet friends and do social activities.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Doctorate of philosophy in science
+
+Linnaues Univesity
+
+Växjö, Sweden
+
+2016
+
+Thesis: Mean field games for Jump Processes
+
+### M.S. in Mathematical Modeling
+
+Linnaues Univesity
+
+Växjö, Sweden
+
+2010
+
+Specialize in Mathematical Statistics and Financial Mathematics.
+
+
+### Diploma of Postgraduate Studies in Science
+
+Tishreen University
+
+Latakia, Syria
+
+2005
+
+### B.S. in Mathematical Science
+
+Tishreen University
+
+Latakia, Syria
+
+2004
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Machine Learning Researcher
+
+Institute of Medicine.
+
+Gothenburg, Sweden.
+
+2021 - Now.
+
+- Topics: Machine learning, Database developing, Statistical learning, Computational disease phenotype.
+- Bayesian Network, PhD supervisions, Deep Learning for Clustering. 
+
+### Data Scientist Post-Doctoral.
+
+Department of Internal Medicine and Clinical Nutrition at Institute of Medicine.
+
+Gothenburg, Sweden
+
+2019 - 2021
+
+- Topics Machine learning, Database developing, Dimensionality reduction, Statistical learning,
+Computational disease phenotype, Network disease modeling, risk modeling, Advanced method
+Clustering, Hight performance computing, and missing data imputation modeling.
+
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data scientist
+
+Unumai Danish based company.
+
+Copenhagen, Denmark
+
+2018 - 2019
+
+::: concise
+- User Behaviour predictions.
+- Recurrent Nueral Network.
+- Send-time optimization
+- Bayesian Optimization and Bayesian Bandits.
+:::
+
+
+### Data scientist and AI Framework Developer
+
+Company Blackwood Seven.
+
+Copenhagen, Denmark
+
+2017 - 2018
+
+::: concise
+- Methods: Bayesian Statistical Hierarchical Regression Model.
+- Markov Chains Monte Carlo. 
+- Marketing Mix Modeling.
+- Non-convex constrained optimization, Sequential Optimization. 
+- Stochastic Approximation (Stochastic gradient Descent methods and its variants).
+- Bayesian Optimization, Variational Inference, Proximal operator methods.
+::: 
+
+
+::: aside
+
+I am an active participant in Conferences: I'm was a co-organizer of Linnaeus University Workshop in Stochastic Analysis and Applications. I have talks and presentations in several meetups and workshops.
+
+Experience with Presentations, and scientific writing using Latex.
+
+
+### Soft Skills
+
+Experienced in Stress management, Active listening and Collaboration.
+
+Experienced in Communications, Adaptability, Teamwork, and Time management. 
+
+
+### Languages
+
+**Arabic:** Native
+
+**English:** Proficient
+
+**Swedish:** Beginner
+
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Teacher at University of Gothenburg
+
+- Reproducible research in computational Science.
+
+Gothenburg, Sweden.
+
+2019-Now
+
+### Teacher assistant at Linnaeus University
+
+- Subjects: Calculus 1, Basic Mathematics, Linear Algebra, Lab sessions for Risk and Portfolio Analysis, Lab sessions for Insurance Mathematics, and Linear Statistical Models.
+
+Växjö, Sweden.
+
+2010 - 2014.
+
+### Teacher assistant at University of Aleppo
+
+- Probability and Statistics, Programing Language, Complex Analysis, Differential Equations.
+
+Aleppo, Syria.
+
+2006 - 2008.
+
+### Teacher assistant at Tishreen University
+
+- Calculus, Probability, Statistics, Mathematical Mechanic. 
+
+Latakia, Syria
+
+2003 - 2006.
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Rani Basna, Astrid Hilbert, Vassili Kolokoltsov. "An Epsilon Nash equilibrium for non-linear Markov games of mean field type on finite state space". 
+
+Communications on Stochastic Analysis,(2014) 449- 468.pages.
+
+Växjö, Sweden.
+
+2014 
+
+**Rani Basna**, Astrid Hilbert, Vassili Kolokoltsov.
+
+### "An Epsilon Nash equilibrium for pure jump Markov games of mean field type on continuous state space". 
+
+Stochastics: An International Journal of Probability and Stochastic Processes.
+
+Växjö, Sweden.
+
+2016
+
+**Rani Basna**, Astrid Hilbert, Vassili Kolokoltsov.
+
