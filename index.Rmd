@@ -21,7 +21,7 @@ output:
 Aside
 ================================================================================
 
-![Rani Basna, PhD](CV_pic.jpeg)
+![Rani Basna, PhD](CV_pic.jpeg){width=50%, hieght=70%} 
 
 
 
@@ -76,12 +76,7 @@ Programming Skills {#skills}
 
 
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
 
 
 
@@ -228,6 +223,14 @@ Experienced in Communications, Adaptability, Teamwork, and Time management.
 **English:** Proficient
 
 **Swedish:** Beginner
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
 
 :::
 
