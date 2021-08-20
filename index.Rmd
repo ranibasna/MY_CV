@@ -12,14 +12,18 @@ output:
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
 # knit: pagedown::chrome_print
+# install.packages("devtools")
+#install.packages("pagedown")
+#devtools::install_github("gadenbuie/xaringanExtra")
 ---
 
 
 Aside
 ================================================================================
 
+![Rani Basna, PhD](CV_pic.jpeg)
 
-![Rani Basna](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
 
 
 Contact Info {#contact}
