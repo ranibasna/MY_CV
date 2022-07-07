@@ -4,7 +4,7 @@ author: Rani Basna
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: 
+    css:
       - css/custom_resume.css
       - css/styles.css
       - resume
@@ -21,7 +21,7 @@ output:
 Aside
 ================================================================================
 
-![Rani Basna, PhD](CV_pic.jpeg){width=50%, hieght=70%} 
+![Rani Basna, PhD](CV_pic.jpeg){width=50%, hieght=70%}
 
 
 
@@ -36,18 +36,18 @@ Contact Info {#contact}
 
 - <i class="fab fa-orcid"></i> <a href='https://orcid.org/0000-0001-7510-8460'> Orcid </a>  
 
-- <i class="fa fa-home"></i> [ranibasna](https://ranibasna)
+- <i class="fa fa-home"></i> [ranibasna](https://ranibasna.netlify.app/)
 
 Software {#software}
 --------------------------------------------------------------------------------
 
-<i class="fas fa-box-open"></i> [Package {mananciais}](https://github.com/ranibasna/ddk) - Co-Author, maintainer. 
+<i class="fas fa-box-open"></i> [Package {mananciais}](https://github.com/ranibasna/ddk) - Co-Author, maintainer.
 
 
 Teaching {#teachingr}
 --------------------------------------------------------------------------------
 
-<i class="fas fa-chalkboard-teacher"></i> [GitHub repo for material](https://ranibasna.github.io/Reproducible-research-with-R-/). 
+<i class="fas fa-chalkboard-teacher"></i> [GitHub repo for material](https://ranibasna.github.io/Reproducible-research-with-R-/).
 
 
 
@@ -149,7 +149,7 @@ Gothenburg, Sweden.
 2021 - Now.
 
 - Topics: Machine learning, Database developing, Statistical learning, Computational disease phenotype.
-- Bayesian Network, PhD supervisions, Deep Learning for Clustering. 
+- Bayesian Network, PhD supervisions, Deep Learning for Clustering.
 
 ### Data Scientist Post-Doctoral.
 
@@ -194,12 +194,12 @@ Copenhagen, Denmark
 
 ::: concise
 - Methods: Bayesian Statistical Hierarchical Regression Model.
-- Markov Chains Monte Carlo. 
+- Markov Chains Monte Carlo.
 - Marketing Mix Modeling.
-- Non-convex constrained optimization, Sequential Optimization. 
+- Non-convex constrained optimization, Sequential Optimization.
 - Stochastic Approximation (Stochastic gradient Descent methods and its variants).
 - Bayesian Optimization, Variational Inference, Proximal operator methods.
-::: 
+:::
 
 
 ::: aside
@@ -213,7 +213,7 @@ Experience with Presentations, and scientific writing using Latex.
 
 Experienced in Stress management, Active listening and Collaboration.
 
-Experienced in Communications, Adaptability, Teamwork, and Time management. 
+Experienced in Communications, Adaptability, Teamwork, and Time management.
 
 
 ### Languages
@@ -264,7 +264,7 @@ Aleppo, Syria.
 
 ### Teacher assistant at Tishreen University
 
-- Calculus, Probability, Statistics, Mathematical Mechanic. 
+- Calculus, Probability, Statistics, Mathematical Mechanic.
 
 Latakia, Syria
 
@@ -274,17 +274,17 @@ Latakia, Syria
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Rani Basna, Astrid Hilbert, Vassili Kolokoltsov. "An Epsilon Nash equilibrium for non-linear Markov games of mean field type on finite state space". 
+### Rani Basna, Astrid Hilbert, Vassili Kolokoltsov. "An Epsilon Nash equilibrium for non-linear Markov games of mean field type on finite state space".
 
 Communications on Stochastic Analysis,(2014) 449- 468.pages.
 
 Växjö, Sweden.
 
-2014 
+2014
 
 **Rani Basna**, Astrid Hilbert, Vassili Kolokoltsov.
 
-### "An Epsilon Nash equilibrium for pure jump Markov games of mean field type on continuous state space". 
+### "An Epsilon Nash equilibrium for pure jump Markov games of mean field type on continuous state space".
 
 Stochastics: An International Journal of Probability and Stochastic Processes.
 
@@ -293,4 +293,3 @@ Växjö, Sweden.
 2016
 
 **Rani Basna**, Astrid Hilbert, Vassili Kolokoltsov.
-
